@@ -1267,7 +1267,14 @@ var languages = {
             name:"Will Oliveira",
             link:"https://twitter.com/WillOliveiraVix"
         }]
-    }
+    },
+    cn:{
+        name:"简体中文",
+        credit:[{
+            name:"侏罗纪汉化组：Heavensn、15224285586、Benzema星、gordondoom、QQ南极企鹅、星汉凌光、peren717",
+            link:"http://www.playarkcn.com/"
+        }]
+    },
 }
 
 module.exports = {languages, translations};
