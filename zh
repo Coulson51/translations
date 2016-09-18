@@ -207,7 +207,7 @@ var translations = {
         timerNote: "当你开始了一个计时器你可以在这里找到他 — 即使当你关闭Dododex后",
         effects: "效果",
         craftTime: "制作时间",
-        duration: "Duration",
+        duration: "持续时间",
         spoilsIn: "腐烂时间",
         quantity: "数量",
         consumables: "消耗品",
