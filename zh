@@ -87,7 +87,7 @@ var translations = {
         howStarveTamingWorks: "饥饿驯服法是如何运作的",
         idealIncubationTemp: "理想的孵化温度",
         aboutStarveBenefits: "如果生物在进行普通驯服模式中受到攻击，你可能会损失所有已消耗的食物以及生物的物品栏内所有的物品。饥饿驯服法不会影响驯服效率。",
-        aboutStarveUntilIsNotHead: "如果他没有出现",
+        aboutStarveUntilIsNotHead: "如果它没有出现",
         aboutStarveUntilIsHead: "如果饥饿计时器的倒计时出现",
         impactsMeleeWeapons: "近战武器冲突.",
         aboutStarveMethod: "在普通驯服模式中，当你击晕一只生物后就立刻将其所需求的食物放进它的物品栏中他会就会在饿到一定程度后吃一次食物。但使用饥饿驯服法的话，一旦击晕生物，你只需简单地等到它的饱食度和眩晕度下降至临界值。在生物可以一次性吃掉所有食物后，再开始给它喂食。",
